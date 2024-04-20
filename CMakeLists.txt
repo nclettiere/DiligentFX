@@ -26,7 +26,7 @@ PUBLIC
     Diligent-GraphicsTools
     Diligent-AssetLoader
     Diligent-TextureLoader
-    Diligent-Imgui
+    imgui
 )
 
 if (TARGET Diligent-HLSL2GLSLConverterLib)
